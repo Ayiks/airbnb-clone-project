@@ -15,7 +15,7 @@ This will enable us learn and understand software development lifecycles practic
 CI/CD and database design ath the end of the program.
 
 ## Tech Stack
-we will be using stack like **Django**, **MySQL** and **GraphQL**.
+we will be using stack like **Django**, **MySQL** and **GraphQL**, **PostgreSQL**, **Celery**, **Redis**, **Docker**, **CI/CD Pipelines**
 
 
 ## Team Roles
@@ -40,3 +40,29 @@ Tests features, finds bugs, and ensures the system meets quality standards.
 
 ### DevOps Engineer  
 Automates deployment, manages CI/CD pipelines, and maintains system uptime and scalability.
+
+## Technology Stack
+
+### Django: 
+A high-level Python web framework used for building the RESTful API.
+
+### Django REST Framework: 
+Provides tools for creating and managing RESTful APIs.
+
+### PostgreSQL: 
+A powerful relational database used for data storage.
+
+### GraphQL: 
+Allows for flexible and efficient querying of data.
+
+### Celery: 
+For handling asynchronous tasks such as sending notifications or processing payments.
+
+### Redis: 
+Used for caching and session management.
+
+### Docker: 
+Containerization tool for consistent development and deployment environments.
+
+### CI/CD Pipelines: 
+Automated pipelines for testing and deploying code changes.
