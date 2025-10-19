@@ -179,3 +179,18 @@ Ensure secure interaction between users and the backend services.
 
 **Why It’s Crucial:**  
 Security protects user information, prevents financial fraud, and maintains user trust in the platform.
+
+
+## 🚀 CI/CD Pipeline
+
+### Objective  
+Automate testing, deployment, and delivery to improve project reliability.
+
+### Overview  
+CI/CD (Continuous Integration and Continuous Deployment) ensures that every code change is tested, built, and deployed automatically.  
+This reduces manual errors, speeds up development, and allows for faster updates.
+
+### Tools  
+- **GitHub Actions:** Automates testing and deployment directly from the repository.  
+- **Docker:** Ensures consistent environments across development and production.  
+- **CI/CD Pipelines:** Runs automated tests and deploys code changes seamlessly to servers or containers.
