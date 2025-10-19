@@ -154,3 +154,28 @@ This feature builds trust and improves transparency between hosts and guests.
 ### Data Optimization  
 Implements caching and indexing for faster data access.  
 It improves app performance and provides a smoother experience for all users.
+
+## API Security
+
+### Objective  
+Ensure secure interaction between users and the backend services.
+
+### Key Security Measures
+- **Authentication:**  
+  Only registered users can access certain endpoints using tokens (e.g., JWT).  
+  This prevents unauthorized access to user or booking data.
+
+- **Authorization:**  
+  Controls what each user role (guest or host) can do.  
+  For example, a host can edit their property, but a guest cannot.
+
+- **Rate Limiting:**  
+  Limits the number of API requests within a timeframe.  
+  This protects against abuse such as brute-force attacks.
+
+- **Data Encryption:**  
+  All sensitive data (e.g., passwords, payment info) is encrypted.  
+  This ensures user and transaction data remain private.
+
+**Why It’s Crucial:**  
+Security protects user information, prevents financial fraud, and maintains user trust in the platform.
