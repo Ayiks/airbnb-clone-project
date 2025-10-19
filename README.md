@@ -129,3 +129,28 @@ Each review is written by one user for one property.
 **Relationship:**  
 Each payment is linked to one booking.
 
+## Feature Breakdown
+
+### User Management  
+Handles user registration, authentication, and profile management.  
+This ensures secure access for guests and hosts while maintaining individual profiles and roles.
+
+### Property Management  
+Allows hosts to create, update, and manage property listings.  
+This feature helps users browse available accommodations with accurate information and pricing.
+
+### Booking System  
+Enables users to reserve properties for specific dates and manage booking details.  
+It ensures accurate tracking of property availability and user reservations.
+
+### Payment Processing  
+Handles secure payment transactions for bookings.  
+It ensures safe financial exchanges and proper record-keeping for completed stays.
+
+### Review System  
+Allows users to leave ratings and feedback on properties.  
+This feature builds trust and improves transparency between hosts and guests.
+
+### Data Optimization  
+Implements caching and indexing for faster data access.  
+It improves app performance and provides a smoother experience for all users.
