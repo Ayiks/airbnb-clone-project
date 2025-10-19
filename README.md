@@ -181,7 +181,7 @@ Ensure secure interaction between users and the backend services.
 Security protects user information, prevents financial fraud, and maintains user trust in the platform.
 
 
-## 🚀 CI/CD Pipeline
+## CI/CD Pipeline
 
 ### Objective  
 Automate testing, deployment, and delivery to improve project reliability.
